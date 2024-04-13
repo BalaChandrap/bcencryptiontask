@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration files
+.env
+
+# Build outputs
+dist/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional: TypeScript incremental compilation directory
+.tsbuildinfo
